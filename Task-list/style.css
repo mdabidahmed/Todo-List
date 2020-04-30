@@ -1,0 +1,21 @@
+body {
+  background-color: chartreuse;
+  color: rgb(0, 0, 0);
+}
+
+.channel {
+  padding-left: 330px;
+}
+
+.headingName {
+  color: rgb(68, 0, 255);
+  font-style: italic;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+.marq {
+  font-size: 50px;
+  font-family: monospace;
+  color: rgb(255, 0, 51);
+}
